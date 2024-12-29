@@ -1,10 +1,10 @@
  
-# Network Engineer
+# developer
 
 ![License Badge](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
-scaling networks 
+front-end app
 
 ## Table of Contents
 - [Installation](#installation)
@@ -15,19 +15,19 @@ scaling networks
 - [Questions](#questions)
 
 ## Installation
-install networks when requiremts show 90% congestion rate 
+install on dev enviroment and test
 
 ## Usage
-has been used 
+to be used for commericail envirment after testing
 
 ## License
 This project is licensed under the MIT License.
 
 ## Contributing
-contributes
+to be used based on project guide lines 
 
 ## Tests
-tested
+test enviroments based on mokito
 
 ## Questions
 For any questions, please reach out to me via GitHub or email:
