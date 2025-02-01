@@ -1,10 +1,10 @@
  
-# developer
+# challenge7
 
 ![License Badge](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
-front-end app
+app using node 
 
 ## Table of Contents
 - [Installation](#installation)
@@ -15,23 +15,23 @@ front-end app
 - [Questions](#questions)
 
 ## Installation
-install on dev enviroment and test
+node installed 
 
 ## Usage
-to be used for commericial envirment after testing
+used to generate readme file
 
 ## License
 This project is licensed under the MIT License.
 
 ## Contributing
-to be used based on project guide lines 
+developer
 
 ## Tests
-test enviroments based on mokito
+tested
 
 ## Questions
 For any questions, please reach out to me via GitHub or email:
 - GitHub: [girma1978](https://github.com/girma1978)
 - Email: [girm2002@gmail.com](mailto:girm2002@gmail.com)
-## Walkthrough Video
--link to video: https://drive.google.com/file/d/11Usv2_7fu6aLTMrE398ADx9xQisAe4F5/view?usp=drive_link
+## link to video
+-Link:  https://drive.google.com/file/d/1BQDox5wfC0ML8ieFoEWy0MjQWEf-Ei-o/view?usp=sharing
